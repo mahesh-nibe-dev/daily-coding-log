@@ -1,2 +1,3 @@
 
 - [2026-02-09 18:23] docs: initialize daily coding log and start graph traversal DSA practice
+- [2026-02-10 23:28] feat: implement dynamic programming solutions for knapsack problems
