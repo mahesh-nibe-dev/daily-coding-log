@@ -5,3 +5,4 @@
 - [2026-02-12 10:15] feat: integrate Node.js backend with MySQL for Cafe Website orders
 - [2026-02-13 16:18] feat: initialize Spring Boot Journal application with MongoDB config
 - [2026-02-14 15:05] sec: implement Spring Security and JWT authentication for Journal app
+- [2026-02-15 18:53] chore: code cleanup and SonarQube integration for Spring Boot app
