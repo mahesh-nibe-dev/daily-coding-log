@@ -7,3 +7,4 @@
 - [2026-02-14 15:05] sec: implement Spring Security and JWT authentication for Journal app
 - [2026-02-15 18:53] chore: code cleanup and SonarQube integration for Spring Boot app
 - [2026-02-16 13:11] feat: develop Lexical Analyzer for 8-bit CPU Compiler project
+- [2026-02-17 20:17] feat: implement AST parsing logic for simple high-level language
