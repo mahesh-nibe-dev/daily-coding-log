@@ -10,3 +10,4 @@
 - [2026-02-17 20:17] feat: implement AST parsing logic for simple high-level language
 - [2026-02-18 13:35] refactor: optimize tokenization process in compiler frontend
 - [2026-02-19 22:28] docs: review sequential search algorithms and update DSA roadmap
+- [2026-02-20 22:19] feat: implement selection sort and linked list utilities in C++
