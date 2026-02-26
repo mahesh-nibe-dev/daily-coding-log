@@ -16,3 +16,4 @@
 - [2026-02-23 21:51] feat: implement repository ingestion and secure file processing
 - [2026-02-24 23:44] feat: develop analytics dashboard for project metrics
 - [2026-02-25 13:33] refactor: optimize AI-based code insights extraction engine
+- [2026-02-26 17:48] feat: integrate PDF and Markdown export features for summaries
