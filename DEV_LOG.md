@@ -18,3 +18,4 @@
 - [2026-02-25 13:33] refactor: optimize AI-based code insights extraction engine
 - [2026-02-26 17:48] feat: integrate PDF and Markdown export features for summaries
 - [2026-02-27 15:24] test: add unit tests for repository parsing modules
+- [2026-02-28 21:36] fix: resolve edge cases in PDF document generation
