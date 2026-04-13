@@ -21,3 +21,4 @@
 - [2026-02-28 21:36] fix: resolve edge cases in PDF document generation
 - [2026-04-11 18:23] fix(compiler): optimize AST parser for nested expressions in high-level language
 - [2026-04-12 19:37] feat(compiler): add error recovery mechanisms in parsing phase
+- [2026-04-13 16:26] refactor(compiler): improve assembly code generator for 8-bit CPU instructions
