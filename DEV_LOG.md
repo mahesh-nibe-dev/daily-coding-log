@@ -23,3 +23,4 @@
 - [2026-04-12 19:37] feat(compiler): add error recovery mechanisms in parsing phase
 - [2026-04-13 16:26] refactor(compiler): improve assembly code generator for 8-bit CPU instructions
 - [2026-04-14 09:26] chore(cafe-web): upgrade Spring Boot dependencies and resolve deprecated security configs
+- [2026-04-15 20:08] refactor(cafe-web): overhaul JWT authentication filter for strict error handling
