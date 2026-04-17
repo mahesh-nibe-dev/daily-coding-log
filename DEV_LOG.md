@@ -25,3 +25,4 @@
 - [2026-04-14 09:26] chore(cafe-web): upgrade Spring Boot dependencies and resolve deprecated security configs
 - [2026-04-15 20:08] refactor(cafe-web): overhaul JWT authentication filter for strict error handling
 - [2026-04-16 11:29] perf(cafe-web): optimize React frontend state management for order processing
+- [2026-04-17 19:32] test(cafe-web): enhance service layer unit test coverage for backend API
