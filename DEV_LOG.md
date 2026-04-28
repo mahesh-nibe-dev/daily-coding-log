@@ -30,3 +30,4 @@
 - [2026-04-21 16:47] perf(job-board): optimize MongoDB aggregation pipelines for rapid job matching
 - [2026-04-24 15:04] feat(job-board): implement robust global error handling middleware
 - [2026-04-27 15:36] build(short-url): update Dockerfile to use multi-stage builds for reduced image size
+- [2026-04-28 22:03] perf(short-url): enhance caching logic to reduce primary database load
