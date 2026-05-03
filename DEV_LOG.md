@@ -32,3 +32,4 @@
 - [2026-04-27 15:36] build(short-url): update Dockerfile to use multi-stage builds for reduced image size
 - [2026-04-28 22:03] perf(short-url): enhance caching logic to reduce primary database load
 - [2026-04-29 09:18] refactor(short-url): streamline URL redirection controller for lower latency
+- [2026-05-03 18:23] feat(job-board): upgrade applicant tracking system endpoint validation
