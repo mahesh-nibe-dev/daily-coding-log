@@ -35,3 +35,4 @@
 - [2026-05-03 18:23] feat(job-board): upgrade applicant tracking system endpoint validation
 - [2026-05-04 19:04] feat(job-board): add robust resume parsing and sanitization utilities
 - [2026-05-05 13:43] perf(job-board): optimize database indexing for complex resume search queries
+- [2026-05-06 21:54] sec(cafe-web): implement strict role-based access control (RBAC) middleware
