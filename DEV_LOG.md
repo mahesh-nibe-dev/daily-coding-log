@@ -41,3 +41,4 @@
 - [2026-05-09 11:16] chore(cafe-web): setup modular testing configuration for frontend components
 - [2026-05-11 21:04] feat(compiler): implement semantic analysis pass for strict type checking
 - [2026-05-12 22:43] perf(compiler): optimize memory allocation strategy for 8-bit target architecture
+- [2026-05-13 22:24] feat(compiler): add robust parsing support for inline assembly instructions
