@@ -45,3 +45,4 @@
 - [2026-05-15 09:18] sec(short-url): implement API rate limiting to prevent endpoint abuse
 - [2026-05-18 19:29] feat(short-url): add comprehensive structured logging for Dockerized environments
 - [2026-05-19 21:00] fix(short-url): patch memory leak in bulk URL generation loop
+- [2026-05-20 21:15] refactor(short-url): standardize environment variable configuration loading
