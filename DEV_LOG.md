@@ -46,3 +46,4 @@
 - [2026-05-18 19:29] feat(short-url): add comprehensive structured logging for Dockerized environments
 - [2026-05-19 21:00] fix(short-url): patch memory leak in bulk URL generation loop
 - [2026-05-20 21:15] refactor(short-url): standardize environment variable configuration loading
+- [2026-06-15 20:20] refactor(job-board): improve data validation schema for job posting endpoints
