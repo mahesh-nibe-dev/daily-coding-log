@@ -52,3 +52,4 @@
 - [2026-06-18 18:12] perf(cafe-web): optimize API payload sizes and implement lazy loading
 - [2026-06-19 19:02] perf(compiler): integrate dead code elimination optimization pass
 - [2026-06-20 12:03] refactor(compiler): restructure symbol table to support strict variable scoping
+- [2026-06-21 13:05] chore(short-url): implement graceful shutdown signals for Docker containers
